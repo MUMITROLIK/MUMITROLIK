@@ -57,14 +57,12 @@
 
 ### 🤖 AI & Vibe-coding Stack
 
-```
-AI Agents / Prompting     ████████████████████░░░░  ~75%
-Vibe-coding (Cursor)      ████████████████░░░░░░░░  ~65%
-MCP Servers / Tools       ███████████████░░░░░░░░░  ~60%
-Claude Code / CLI         ██████████████░░░░░░░░░░  ~55%
-```
+![AI Agents](https://img.shields.io/badge/AI%20Agents%20%2F%20Prompting-★★★★★-c8102e?style=for-the-badge)
+![Vibe-coding](https://img.shields.io/badge/Vibe--coding%20(Cursor)-★★★★☆-1a1a2e?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers%20%2F%20Tools-★★★★☆-1a1a2e?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code%20%2F%20CLI-★★★☆☆-1a1a2e?style=for-the-badge)
 
-Tools I use daily: **Claude**, **Cursor**, **Claude Code**, **MCP integrations**
+> 🛠 Daily stack: **Claude** · **Cursor** · **Claude Code** · **MCP integrations**
 
 ---
 
