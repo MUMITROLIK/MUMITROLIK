@@ -57,12 +57,13 @@
 
 ### 🤖 AI & Vibe-coding Stack
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents%20%2F%20Prompting-★★★★★-c8102e?style=for-the-badge)
-![Vibe-coding](https://img.shields.io/badge/Vibe--coding%20(Cursor)-★★★★☆-1a1a2e?style=for-the-badge)
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers%20%2F%20Tools-★★★★☆-1a1a2e?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude%20Code%20%2F%20CLI-★★★☆☆-1a1a2e?style=for-the-badge)
-
-> 🛠 Daily stack: **Claude** · **Cursor** · **Claude Code** · **MCP integrations**
+<div>
+  <img src="https://img.shields.io/badge/Claude-AI-c8102e?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Cursor-Vibe--coding-6e40c9?style=for-the-badge&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-CLI-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/MCP-Servers%20%26%20Tools-0a7ea4?style=for-the-badge&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Automation-2d9b27?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+</div>
 
 ---
 
